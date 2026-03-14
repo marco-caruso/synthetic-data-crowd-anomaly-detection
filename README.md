@@ -16,6 +16,7 @@ https://drive.google.com/drive/folders/1DPkrXN5gMHFswe7lUv7VB_tgj7VedPeS?usp=dri
 These `.pth` files contain the trained weights for the models used in the experiments.
 The models correspond to the configurations listed below:
 - training_ped2: training with 100% ped2
+- training_synth: training with 100% synthetic (114 random videos)
 - training_ped2_synth: training with 50% ped2 / 50% synthetic (manual selection)
 - training_ped2_synth_random: training with 50% ped2 / 50% synthetic (random selection)
 - training_ped2_synth_2: training with 75% ped2 / 25% synthetic (manual selection)
