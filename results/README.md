@@ -34,6 +34,8 @@ Used for:
 
 Ped2 is a standard benchmark dataset for anomaly detection in surveillance videos.
 
+The training set consists of 16 videos (2550 frames), while the test set consists of 12 videos (2010 frames).
+
 ---
 
 ### Synthetic Dataset
@@ -47,6 +49,8 @@ The synthetic dataset contains:
 
 - normal crowd behavior
 - controlled anomalous scenarios
+
+Each video sequence contains 243 frames.
 
 Due to size constraints, the dataset is **not included in this repository**.
 
@@ -112,7 +116,7 @@ Several training configurations were tested by varying the proportion of real an
 | 90/10 random selection | 90% | 10% |
 
 Manual selection refers to a curated selection of synthetic videos, while random selection samples synthetic videos randomly.
-
+The training configurations refer to the proportion of **frames**, not the number of videos.
 ---
 
 # Experimental Results
