@@ -102,8 +102,8 @@ Several training configurations were tested by varying the proportion of real an
 
 | Training Configuration | Real Data | Synthetic Data |
 |------------------------|-----------|---------------|
-| Ped2 only | 100% | 0% |
-| Synthetic only | 0% | 100% |
+| Ped2 only (16 videos) | 100% | 0% |
+| Synthetic only (114 videos) | 0% | 100% |
 | 50/50 manual selection | 50% | 50% |
 | 50/50 random selection | 50% | 50% |
 | 75/25 manual selection | 75% | 25% |
@@ -157,19 +157,5 @@ The figure below shows the aggregated ROC curve obtained from the experimental e
 
 ![ROC Curve](results/figures/roc_curve.png)
 
----
 
-# Pretrained Models
-
-The pretrained model checkpoints used in the experiments are available at:
-
-**Google Drive Link**
-
-Access is restricted to the research group and collaborators.
-
-After downloading the `.pth` files, place them in the appropriate checkpoint directory used by the ASTNet implementation.
-
----
-
-# Repository Structure
 
