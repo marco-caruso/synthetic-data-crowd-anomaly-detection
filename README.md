@@ -34,7 +34,7 @@ The synthetic dataset used in the experiments was generated using the **WAN 2.2 
 
 To augment the training data, a synthetic crowd dataset was generated using the **WAN 2.2 14B video diffusion model**.
 
-The dataset consists of **284 videos**, equally divided into:
+The dataset consists of **284 videos**, each lasting **15 seconds** at **16 FPS** (243 frames), equally divided into:
 
 - **142 normal videos**
 - **142 anomalous videos**
@@ -50,7 +50,7 @@ All sequences were generated across **four different environmental contexts** de
 - Simple public squares
 - Public squares with urban furniture and seated pedestrians
 - Public squares surrounded by buildings
-- Railway station environments
+- Train station 
 
 
 dataset structure:
