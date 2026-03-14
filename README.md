@@ -15,10 +15,15 @@ https://drive.google.com/drive/folders/1kc7W18yDGC11MskBfprX4YQMBns6bIou?usp=dri
 dataset structure:
 
 synthetic_dataset/
+
 │
+
 ├── anomalous/
+
 ├── normal/
+
 └── README.txt
+
 ---
 
 ## Repository structure
