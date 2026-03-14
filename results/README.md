@@ -159,7 +159,7 @@ The best cross-dataset performance on the MED dataset is obtained with the **90/
 
 The figure below shows the aggregated ROC curve obtained from the experimental evaluation.
 
-![ROC Curve](../ROC_curve.png)
+![ROC Curve](ROC_curve.png)
 
 
 
