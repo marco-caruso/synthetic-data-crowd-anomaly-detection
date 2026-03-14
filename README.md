@@ -1,7 +1,6 @@
 # Crowd Anomaly Detection with Synthetic Data
 Thesis project exploring synthetic data generation and cross-dataset object detection using ASTNet to improve crowd anomaly detection in real-world surveillance scenarios.
 
-
 This repository contains the experiments developed for my thesis on crowd anomaly detection using synthetic data.
 
 The experiments are based on the ASTNet detector.
@@ -27,6 +26,32 @@ The models correspond to the configurations listed below:
 
 Link to the synthetic dataset created:
 https://drive.google.com/drive/folders/1kc7W18yDGC11MskBfprX4YQMBns6bIou?usp=drive_link
+
+
+The synthetic dataset used in the experiments was generated using the **WAN 2.2 14B video diffusion model**, producing crowd scenes used to augment the training data.
+
+## Synthetic Dataset
+
+To augment the training data, a synthetic crowd dataset was generated using the **WAN 2.2 14B video diffusion model**.
+
+The dataset consists of **284 videos**, equally divided into:
+
+- **142 normal videos**
+- **142 anomalous videos**
+
+The anomalous sequences are categorized into three macro classes:
+
+- **General panic events**
+- **Fights and assaults**
+- **Suspicious object scenarios**
+
+All sequences were generated across **four different environmental contexts** designed to simulate common surveillance environments:
+
+- Simple public squares
+- Public squares with urban furniture and seated pedestrians
+- Public squares surrounded by buildings
+- Railway station environments
+
 
 dataset structure:
 
