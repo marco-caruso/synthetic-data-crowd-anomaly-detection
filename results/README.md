@@ -144,13 +144,13 @@ The best cross-dataset performance on the MED dataset is obtained with the **90/
 | Model | Accuracy | Precision | Recall | F1-score |
 |------|---------|---------|--------|---------|
 | Baseline (pre-trained) | 59.81% | 50.35% | 58.19% | 53.99% |
-| Ped2 only | 65.01% | 56.24% | 61.59% | 58.79% |
+| Ped2 only | 65.01% | 56.24% | **61.59%** | 58.79% |
 | Synthetic only | 61.95% | 57.88% | 22.36% | 32.26% |
 | 50/50 manual selection | 64.33% | 56.48% | 52.17% | 54.24% |
 | 50/50 random selection | 64.36% | 57.47% | 46.29% | 51.28% |
-| 75/25 manual selection | 64.82% | 55.99% | 61.59% | 58.66% |
+| 75/25 manual selection | 64.82% | 55.99% | **61.59%** | 58.66% |
 | 75/25 random selection | 64.32% | 59.02% | 39.07% | 47.01% |
-| 90/10 manual selection | **67.41%** | 59.71% | 60.18% | **59.94%** |
+| 90/10 manual selection | **67.41%** | **59.71%** | 60.18% | **59.94%** |
 | 90/10 random selection | 64.97% | 56.80% | 56.65% | 56.72% |
 
 ---
