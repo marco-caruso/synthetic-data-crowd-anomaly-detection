@@ -3,7 +3,7 @@
 **Bachelor Thesis - Applied Computer Science and Data Analytics**  
 University of Cagliari
 
-This repository contains the experiments developed for the thesis project exploring synthetic data generation and cross-dataset object detection using ASTNet to improve crowd anomaly detection in real-world surveillance scenarios.
+This thesis project was supervised by professors from the University of Cagliari within the research framework of PRA Lab and SAIfer Lab. The study investigates the transition from synthetic environments to real-world applications, aiming to improve the robustness of AI models for crowd anomaly detection.
 
 The experiments are based on the ASTNet detector.
 
