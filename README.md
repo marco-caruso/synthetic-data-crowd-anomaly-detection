@@ -3,7 +3,7 @@
 **Bachelor Thesis - Applied Computer Science and Data Analytics**  
 University of Cagliari
 
-This thesis project was supervised by professors from the University of Cagliari within the research framework of PRA Lab and SAIfer Lab. The study investigates the transition from synthetic environments to real-world applications, aiming to improve the robustness of AI models for crowd anomaly detection.
+This thesis project was supervised by professors from the University of Cagliari within the research framework of PRALab and SAIfer Lab. The study investigates the transition from synthetic environments to real-world applications, aiming to improve the robustness of AI models for crowd anomaly detection.
 
 The experiments are based on the ASTNet detector.
 
