@@ -66,7 +66,7 @@ All sequences were generated across four different environmental contexts design
 
 | Normal Video Sample | Anomalous Video Sample |
 | :---: | :---: |
-| <video src="https://github.com/user-attachments/assets/6fb8817e-ec42-4b38-b272-99375cd50b19" width="380" autoplay loop muted></video> | <video src="https://github.com/user-attachments/assets/aa983ae9-f147-4985-af68-e2b992d29395" width="380" autoplay loop muted></video> |
+| <video src="https://github.com/user-attachments/assets/aa983ae9-f147-4985-af68-e2b992d29395" width="380" autoplay loop muted></video> | <video src="https://github.com/user-attachments/assets/6fb8817e-ec42-4b38-b272-99375cd50b19" width="380" autoplay loop muted></video> |
 | <sub><i>Normal crowd behavior</i></sub> | <sub><i>Anomalous crowd behavior</i></sub> |
 
 
