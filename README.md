@@ -25,7 +25,7 @@ Workflows detailing how normal and anomalous video sequences were created.
 
 | Normal Video Pipeline | Anomalous Video Pipeline |
 | :---: | :---: |
-| ![Normal Video Pipeline](Architecture_Images/pipeline_normal.png) | ![Anomalous Video Pipeline](Architecture_Images/pipeline_anomaly.png) |
+| ![Normal Video Pipeline](Architecture_Images/pipeline_normal.png) | ![Anomalous Video Pipeline](Architecture_Images/pipeline_anomalous.png) |
 | *General pipeline for normal events* | *General pipeline for anomalous events* |
 
 ### Specific Generation Pipelines (Text-to-Video & Image-to-Video)
@@ -82,7 +82,7 @@ All sequences were generated across four different environmental contexts design
 ├── Architecture_Images/       # Diagrams for detector architecture & generation pipelines
 │   ├── ASTNet.png
 │   ├── pipeline_normal.png
-│   ├── pipeline_anomaly.png
+│   ├── pipeline_anomalous.png
 │   ├── Text-To-Video.png
 │   └── Image-To-Video.png
 ├── experiments/               # Notebooks and scripts used for experiments
