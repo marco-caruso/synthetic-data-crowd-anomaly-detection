@@ -13,6 +13,7 @@ The experiments are based on the **ASTNet** detector. Base detector implementati
 
 ### Detector Architecture
 ![ASTNet Detector Architecture](Architecture_Images/ASTNet.png)
+
 *Figure 1: ASTNet detector architecture.*
 
 ### General Video Generation Pipelines
