@@ -14,7 +14,7 @@ The experiments are based on the **ASTNet** detector. Base detector implementati
 ### Detector Architecture
 ![ASTNet Detector Architecture](Architecture_Images/ASTNet.png)
 
-*Figure 1: ASTNet detector architecture.*
+<p align="center"><i>*Figure 1: ASTNet detector architecture.*</i></p>
 
 ### General Video Generation Pipelines
 Workflows detailing how normal and anomalous video sequences were created.
