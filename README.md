@@ -12,9 +12,13 @@ This thesis project was supervised by professors from the University of Cagliari
 The experiments are based on the **ASTNet** detector. Base detector implementation: [ASTNet Fork](https://github.com/marco-caruso/astnet).
 
 ### Detector Architecture
-![ASTNet Detector Architecture](Architecture_Images/ASTNet.png)
+<div align="center">
+  <img src="Architecture_Images/astnet_architecture.png" alt="ASTNet Architecture"/>
+  <br>
+  <sub><b>Figure 1:</b> ASTNet detector architecture.</sub>
+</div>
 
-<p align="center"><i>*Figure 1: ASTNet detector architecture.*</i></p>
+<br>
 
 ### General Video Generation Pipelines
 Workflows detailing how normal and anomalous video sequences were created.
