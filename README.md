@@ -13,7 +13,7 @@ The experiments are based on the **ASTNet** detector. Base detector implementati
 
 ### Detector Architecture
 <div align="center">
-  <img src="Architecture_Images/astnet_architecture.png" alt="ASTNet Architecture"/>
+  <img src="Architecture_Images/ASTNet.png" alt="ASTNet Architecture"/>
   <br>
   <sub><b>Figure 1:</b> ASTNet detector architecture.</sub>
 </div>
