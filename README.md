@@ -12,7 +12,7 @@ This thesis project was supervised by professors from the University of Cagliari
 The experiments are based on the **ASTNet** detector. Base detector implementation: [ASTNet Fork](https://github.com/marco-caruso/astnet).
 
 ### Detector Architecture
-![ASTNet Detector Architecture](Architecture_images/ASTNet.png)
+![ASTNet Detector Architecture](Architecture_Images/ASTNet.png)
 *Figure 1: ASTNet detector architecture.*
 
 ### General Video Generation Pipelines
@@ -20,7 +20,7 @@ Workflows detailing how normal and anomalous video sequences were created.
 
 | Normal Video Pipeline | Anomalous Video Pipeline |
 | :---: | :---: |
-| ![Normal Video Pipeline](Architecture_images/pipeline_normal.png) | ![Anomalous Video Pipeline](Architecture_images/pipeline_anomaly.png) |
+| ![Normal Video Pipeline](Architecture_Images/pipeline_normal.png) | ![Anomalous Video Pipeline](Architecture_Images/pipeline_anomaly.png) |
 | *General pipeline for normal events* | *General pipeline for anomalous events* |
 
 ### Specific Generation Pipelines (Text-to-Video & Image-to-Video)
@@ -28,7 +28,7 @@ Detailed generative pipelines used for creating the synthetic sequences.
 
 | Text-to-Video Pipeline | Image-to-Video Pipeline |
 | :---: | :---: |
-| ![Text to Video Pipeline](Architecture_images/Text-To-Video.png) | ![Image to Video Pipeline](Architecture_images/Image-To-Video.png) |
+| ![Text to Video Pipeline](Architecture_Images/Text-To-Video.png) | ![Image to Video Pipeline](Architecture_Images/Image-To-Video.png) |
 | *Text-to-Video generation workflow* | *Image-to-Video generation workflow* |
 
 ---
