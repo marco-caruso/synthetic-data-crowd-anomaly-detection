@@ -79,7 +79,12 @@ All sequences were generated across four different environmental contexts design
 
 ### Dataset Structure
 ```text
-synthetic_dataset/
-├── anomalous/
-├── normal/
-└── README.txt
+├── Architecture_Images/       # Diagrams for detector architecture & generation pipelines
+│   ├── ASTNet.png
+│   ├── pipeline_normal.png
+│   ├── pipeline_anomaly.png
+│   ├── Text-To-Video.png
+│   └── Image-To-Video.png
+├── experiments/               # Notebooks and scripts used for experiments
+├── results/                   # Evaluation results and figures
+└── ASTNet/                    # Base detector training and inference code
