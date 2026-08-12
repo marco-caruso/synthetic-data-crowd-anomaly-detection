@@ -1,3 +1,4 @@
+
 # Synthetic Data Augmentation for Crowd Anomaly Detection
 
 ### Bachelor Thesis - Applied Computer Science and Data Analytics
@@ -65,8 +66,9 @@ All sequences were generated across four different environmental contexts design
 
 | Normal Video Sample | Anomalous Video Sample |
 | :---: | :---: |
-| <video src="https://raw.githubusercontent.com/marco-caruso/synthetic-data-crowd-anomaly-detection/main/dataset_examples/normal_sample.mp4" width="380" controls autoplay loop muted></video> | <video src="https://raw.githubusercontent.com/marco-caruso/synthetic-data-crowd-anomaly-detection/main/dataset_examples/anomalous_sample.mp4" width="380" controls autoplay loop muted></video> |
+| <video src="https://github.com/user-attachments/assets/6fb8817e-ec42-4b38-b272-99375cd50b19" width="380" autoplay loop muted></video> | <video src="https://github.com/user-attachments/assets/aa983ae9-f147-4985-af68-e2b992d29395" width="380" autoplay loop muted></video> |
 | <sub><i>Normal crowd behavior</i></sub> | <sub><i>Anomalous crowd behavior</i></sub> |
+
 
 ---
 
