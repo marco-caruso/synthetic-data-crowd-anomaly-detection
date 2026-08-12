@@ -38,24 +38,6 @@ Detailed generative pipelines used for creating the synthetic sequences.
 
 ---
 
-## Experimental Model Checkpoints
-
-The pretrained model checkpoints used in the experiments are available at the following link:
-🔗 [Google Drive - Model Checkpoints (.pth)](https://drive.google.com/drive/folders/1DPkrXN5gMHFswe7lUv7VB_tgj7VedPeS?usp=drive_link)
-
-These `.pth` files contain the trained weights for the models used in the experiments. The models correspond to the configurations listed below:
-
-* `training_ped2`: training with 100% ped2
-* `training_synth`: training with 100% synthetic (114 random videos)
-* `training_ped2_synth`: training with 50% ped2 / 50% synthetic (manual selection)
-* `training_ped2_synth_random`: training with 50% ped2 / 50% synthetic (random selection)
-* `training_ped2_synth_2`: training with 75% ped2 / 25% synthetic (manual selection)
-* `training_ped2_synth_2_random`: training with 75% ped2 / 25% synthetic (random selection)
-* `training_ped2_synth_3`: training with 90% ped2 / 10% synthetic (manual selection)
-* `training_ped2_synth_3_random`: training with 90% ped2 / 10% synthetic (random selection)
-
----
-
 ## Synthetic Dataset
 
 To augment the training data, a synthetic crowd dataset was generated using the **WAN 2.2 14B** video diffusion model, producing crowd scenes used to augment the training data.
@@ -76,6 +58,35 @@ All sequences were generated across four different environmental contexts design
 * Public squares with urban furniture and seated pedestrians
 * Public squares surrounded by buildings
 * Train station
+
+---
+
+### Video Samples
+
+| Normal Video Sample | Anomalous Video Sample |
+| :---: | :---: |
+| <video src="Dataset_Examples/normal_sample.mp4" width="380" autoplay loop muted playsinline></video> | <video src="Dataset_Examples/anomalous_sample.mp4" width="380" autoplay loop muted playsinline></video> |
+| <sub><i>Normal crowd behavior</i></sub> | <sub><i>Anomalous crowd behavior</i></sub> |
+
+---
+
+## Experimental Model Checkpoints
+
+The pretrained model checkpoints used in the experiments are available at the following link:
+🔗 [Google Drive - Model Checkpoints (.pth)](https://drive.google.com/drive/folders/1DPkrXN5gMHFswe7lUv7VB_tgj7VedPeS?usp=drive_link)
+
+These `.pth` files contain the trained weights for the models used in the experiments. The models correspond to the configurations listed below:
+
+* `training_ped2`: training with 100% ped2
+* `training_synth`: training with 100% synthetic (114 random videos)
+* `training_ped2_synth`: training with 50% ped2 / 50% synthetic (manual selection)
+* `training_ped2_synth_random`: training with 50% ped2 / 50% synthetic (random selection)
+* `training_ped2_synth_2`: training with 75% ped2 / 25% synthetic (manual selection)
+* `training_ped2_synth_2_random`: training with 75% ped2 / 25% synthetic (random selection)
+* `training_ped2_synth_3`: training with 90% ped2 / 10% synthetic (manual selection)
+* `training_ped2_synth_3_random`: training with 90% ped2 / 10% synthetic (random selection)
+
+---
 
 ### Dataset Structure
 ```text
