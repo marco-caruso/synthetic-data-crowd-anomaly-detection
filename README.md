@@ -65,7 +65,7 @@ All sequences were generated across four different environmental contexts design
 
 | Normal Video Sample | Anomalous Video Sample |
 | :---: | :---: |
-| <video src="dataset_examples/normal_sample.mp4" width="380" autoplay loop muted playsinline></video> | <video src="dataset_examples/anomalous_sample.mp4" width="380" autoplay loop muted playsinline></video> |
+| <video src="https://raw.githubusercontent.com/marco-caruso/synthetic-data-crowd-anomaly-detection/main/dataset_examples/normal_sample.mp4" width="380" controls autoplay loop muted></video> | <video src="https://raw.githubusercontent.com/marco-caruso/synthetic-data-crowd-anomaly-detection/main/dataset_examples/anomalous_sample.mp4" width="380" controls autoplay loop muted></video> |
 | <sub><i>Normal crowd behavior</i></sub> | <sub><i>Anomalous crowd behavior</i></sub> |
 
 ---
